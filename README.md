@@ -33,9 +33,6 @@ The API provides a single endpoint for manipulating images:
 
 GET /manipulate-image
 
-arduino
-Copy code
-
 ### URL Parameters
 
 - `url` (required): The URL of the third-party image to be manipulated.
